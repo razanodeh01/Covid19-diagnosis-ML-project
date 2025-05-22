@@ -61,7 +61,8 @@ Both models were trained using the **scikit-learn** library.
 
 ## 🔴 Live Demo
 You can see the COVID-19 prediction tool live here:
-https://github.com/razanodeh01/ENCS3340-ARTIFICIAL-INTELLIGENCE/assets/133569873/e04c5016-58c8-49c0-96f1-1e8844c9a53b
+[Run](https://github.com/user-attachments/assets/45c60590-27a1-4491-a79f-ce8d5a723f0d)
+
 
 ## 👥 Group Members
 - [**Razan Abdelrahman**](https://github.com/razanodeh01) 
