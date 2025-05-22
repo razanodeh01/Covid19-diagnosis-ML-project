@@ -65,7 +65,7 @@ You can see the COVID-19 prediction tool live here:
 
 
 ## 👥 Group Members
-- [**Razan Abdelrahman**](https://github.com/razanodeh01) 
+- [**Razan Abdalrahman**](https://github.com/razanodeh01) 
 - [**Lana Hamayel**](https://github.com/lanaHamayel5)
 
 > 💬 *“More data leads to smarter models — and better care.”*
